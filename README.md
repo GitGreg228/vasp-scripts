@@ -6,7 +6,7 @@ Common crystal structure symmetrizers (for example, https://uspex-team.org/onlin
 
 The script `symmetrize.py` analyzes the symmetry on given range of tolerances with a given step.
 
-### How to use
+### Usage
 
 Run
 ```bash
